@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/wother/.ssh'
+let g:netrw_dirhist_6='/home/wother/workbench/hydra/src/connections/mailgun'
+let g:netrw_dirhist_5='/home/wother/workbench/hydra/src/connections'
+let g:netrw_dirhist_4='/home/wother/workbench/hydra/src'
+let g:netrw_dirhist_3='/home/wother/workbench/hydra'
+let g:netrw_dirhist_2='/home/wother/workbench/hydra/src'
+let g:netrw_dirhist_1='/home/wother/workbench/hydra'
