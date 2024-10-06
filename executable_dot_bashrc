@@ -96,6 +96,11 @@ alias ll='ls -lh'
 alias la='ls -A'
 alias l='ls -CF'
 
+# alias I shoudl have added years ago
+alias q='exit'
+alias c='clear'
+alias t='tmux'
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
